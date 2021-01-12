@@ -1,0 +1,5 @@
+print("My name is Ky Vu")
+print("I am in 7th grade")
+print("My favorite book is the Harry potter series")
+print("my Favorite superhero is Spiderman")
+print("hello" + "world")
